@@ -12,11 +12,11 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 
 - 💬 Ask me about Laravel, Django, REST APIs, MySQL, Backend Architecture
 
-- 🚀 Experienced in E-Commerce, POS, School Management Systems
+- 🚀 Experienced in E-Commerce, POS, School Management Systems and vehicle management platforms
 
 - 📫 Reach me at: bilalazhar125@gmail.com
 
-- ⚡ Passionate about scalable backend engineering and modern web technologies
+- ⚡ Passionate about clean architecture, scalable applications, and modern backend technologies
 
 ---
 
@@ -27,12 +27,12 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true&theme=default)
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true)
 ---
 
 ## 🌐 Connect With Me

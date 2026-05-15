@@ -6,7 +6,7 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 
 ---
 
-- 🔭 Currently working on scalable Laravel and Django applications
+- 🔭 Experienced in developing scalable backend systems using Laravel, Django, REST APIs, and distributed architecture concepts across E-Commerce, POS, School Management, and vehicle management platforms.
 
 - 🌱 Currently learning advanced system design and distributed backend systems
 
@@ -32,7 +32,7 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 
 ## 📊 GitHub Stats
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true)
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true&theme=default)
 
 ---
 

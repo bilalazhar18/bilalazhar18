@@ -34,5 +34,12 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/bilal-azhar-pk
-- GitHub: https://github.com/bilalazhar18
+<p align="left">
+<a href="https://linkedin.com/in/bilal-azhar-pk" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://github.com/bilalazhar18" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a>
+</p>

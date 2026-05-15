@@ -33,7 +33,6 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 ## 📊 GitHub Stats
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true&theme=default)
-
 ---
 
 ## 🌐 Connect With Me

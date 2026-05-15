@@ -29,10 +29,7 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true)
 ---
 
 ## 🌐 Connect With Me

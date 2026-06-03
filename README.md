@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Azhar</h1>
 
 <h3 align="center">
-Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Systems
+7+ Years Experience Backend-focused Software Engineer | Laravel & Django | CodeIgnitor | CorePhp | REST APIs | GraphQL | Scalable Systems
 </h3>
 
 ---
@@ -20,15 +20,47 @@ Backend-focused Software Engineer | Laravel & Django | REST APIs | Scalable Syst
 
 ---
 
-## 🚀 Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=bilalazhar18&color=blue)
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+---
+## 🚀 Favorite Tech
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,python,django,vue,react,nextjs,typescript,mysql,mongodb,nodejs,graphql,aws,git,github,docker" />
+</p>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&layout=compact&langs_count=8" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bilalazhar18)
+
+---
+
+## 💼 Featured Projects
+
+### 🏪 WiseMarket
+Multi-country vendor marketplace serving Australia, Pakistan, UAE, and New Zealand.
+
+### 🚗 WiseWheels
+Vehicle management platform with booking, inventory, and operational workflows.
+
+### 🏫 School Management System
+Academic, examination, attendance, fee management, and administration platform.
+
+### 🏢 Real Estate & HRM System
+Enterprise-grade real estate and human resource management solution.
+
+### 🌍 NeedleTravel
+Travel and merchant management platform with mapping, shop verification, and route planning features.
 
 ---
 

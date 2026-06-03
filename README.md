@@ -130,8 +130,8 @@
 
 ### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
 
-  <img alt="Qasim Parekh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bilalazhar18&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/>
-  <img alt="Qasim Parekh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="Bilal Azhar's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=bilalazhar18&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px"/>
+  <img alt="Bilal Azhar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   <br/>
 
 [![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bilalazhar18&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)]()

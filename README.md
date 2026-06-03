@@ -31,21 +31,35 @@
 
 ---
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&layout=compact" />
-</p>
-
+<h2> Profile Stats
+ <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
+</h2>
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=bilalazhar18" />
+<div align="center" >
 
+### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bilalazhar18&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
+
+  <img alt="Qasim Parekh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=echandsome&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/>
+  <img alt="Qasim Parekh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <br/>
+
+[![Qasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=echandsome&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)]()
+
+</div>
+<br>
+<h2> My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'> </h2>
+
+<div align="center" >
+
+[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=bilalazhar18&theme=onedark&margin-w=4&row=1&column=9)](https://github.com/bilalazhar18)
+</div>
 ---
 
 ## 💼 Featured Projects

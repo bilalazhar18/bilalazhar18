@@ -33,15 +33,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalazhar18&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&layout=compact" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bilalazhar18)
+<img src="https://streak-stats.demolab.com?user=bilalazhar18" />
 
 ---
 

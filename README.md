@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Azhar</h1>
+<h1 align="center">Hi 👋, I'm M Bilal Azhar</h1>
 
 <h3 align="center">
 Senior Software Engineer | 8+ Years in Backend Engineering | Python • Django • FastAPI • Celery • Laravel | GraphQL & REST APIs | Payments & AI Integration
@@ -121,6 +121,10 @@ REST APIs for mobile and web inspections, optimised uploads for 150+ images per 
 Marketplace serving Australia, Pakistan, UAE and New Zealand, covering catalogs, inventory, payments, rewards and a Next.js frontend migration.
 <br>**Tech:** Laravel • Next.js • REST APIs
 
+### 🚶 Zenawalk
+[One-line description: what Zenawalk does and who it is for.]
+<br>**Tech:** [Tech stack you used]
+
 ### 🏫 School Management Platform
 Examinations, attendance, fees and administration; led the migration from CodeIgniter to Laravel and built REST APIs for the mobile app.
 <br>**Tech:** PHP • Laravel • CodeIgniter • MySQL
@@ -130,6 +134,13 @@ Examinations, attendance, fees and administration; led the migration from CodeIg
 ## 📊 GitHub Stats
 
 <div align="center">
+
+### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bilalazhar18&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
+
   <img alt="Bilal Azhar's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=bilalazhar18&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="180px"/>
   <img alt="Bilal Azhar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bilalazhar18&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="180px"/>
 </div>

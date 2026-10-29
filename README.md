@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm M Bilal Azhar</h1>
+<h1 align="center">Hi 👋, I'm Bilal Azhar</h1>
 
 <h3 align="center">
-Senior Software Engineer | 8+ Years in Backend Engineering | Python • Django • FastAPI • Celery • Laravel | GraphQL & REST APIs | Payments & AI Integration
+Senior Software Engineer | 8+ Years in Backend Engineering | Python • Django • FastAPI • Flask • Celery • Laravel | GraphQL & REST APIs | Payments & AI Integration
 </h3>
 
 <p align="center">
@@ -40,16 +40,20 @@ Senior Software Engineer | 8+ Years in Backend Engineering | Python • Django �
       <br>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
-      <br>Laravel
+      <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
+      <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+      <br>Laravel
     </td>
   </tr>
 
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+      <br>PHP
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
       <br>GraphQL
@@ -121,9 +125,10 @@ REST APIs for mobile and web inspections, optimised uploads for 150+ images per 
 Marketplace serving Australia, Pakistan, UAE and New Zealand, covering catalogs, inventory, payments, rewards and a Next.js frontend migration.
 <br>**Tech:** Laravel • Next.js • REST APIs
 
-### 🚶 Zenawalk
-[One-line description: what Zenawalk does and who it is for.]
-<br>**Tech:** [Tech stack you used]
+### 🎧 Zenawalk — Audio Walking Tour App
+Built the complete backend for an audio walking tour platform: multilingual itineraries, Stripe order management, background job queues, an admin dashboard for users, itineraries and orders, and a CI/CD pipeline.
+<br>**Tech:** Python • Flask • Stripe • Queue System • CI/CD • Multilingual Support
+<br>🔗 [zenawalk.com](https://zenawalk.com/)
 
 ### 🏫 School Management Platform
 Examinations, attendance, fees and administration; led the migration from CodeIgniter to Laravel and built REST APIs for the mobile app.

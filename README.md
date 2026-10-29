@@ -23,6 +23,15 @@ Senior Software Engineer | 8+ Years in Backend Engineering | Python • Django �
 
 ---
 
+<h2> Visitor count  </h2>
+
+<div align="left">  
+  <img src="https://komarev.com/ghpvc/?username=bilalazhar18&style=for-the-badge&color=orange" align="center"/> 
+</div>
+<br>
+
+---
+
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <table align="center">
